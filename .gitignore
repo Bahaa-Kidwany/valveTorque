@@ -1,0 +1,37 @@
+# Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# Build and Packaging Artifacts
+build/
+dist/
+*.spec
+
+# IDE and Editor Configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Application Local Output & Temp Files
+example-assets/output/
+temp_*.png
+matplotlib_chart_test.png
+*.log
+
+# Windows OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
