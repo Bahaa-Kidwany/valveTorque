@@ -4,6 +4,10 @@ A premium, standalone Windows desktop application designed for **Fugro** to auto
 
 This program replaces manual spreadsheets and screenshotting routines with an elegant, single-click GUI utility that converts raw data into polished Excel files and vector-perfect PDF engineering reports.
 
+> [!NOTE]
+> Engineered and calibrated exclusively for Fugro operations to ensure seamless compliance and precision.
+
+
 ---
 
 ## 🌟 Key Features
